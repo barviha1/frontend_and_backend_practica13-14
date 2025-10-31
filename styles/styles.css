@@ -1,0 +1,11 @@
+body { font-family: 'Segoe UI', sans-serif; }
+footer { position: relative; bottom: 0; width: 100%; }
+.project-card {
+    transition: transform 0.3s;
+    margin-bottom: 20px;
+}
+.project-card {
+    transition: all 0.5s ease;
+    opacity: 1;
+    transform: translateY(0);
+}
